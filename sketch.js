@@ -124,6 +124,7 @@ function draw(){
     running_dino.x = 45;
     running_dino.y = 227;
     dino.visible = false;
+    score = 0;
   }
   
   
